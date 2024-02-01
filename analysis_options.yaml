@@ -1,0 +1,5 @@
+linter:
+  rules:
+    prefer_single_quotes: true
+    unnecessary_const: true
+    prefer_const_constructors: false
